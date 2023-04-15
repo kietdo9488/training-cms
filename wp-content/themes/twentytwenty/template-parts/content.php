@@ -72,7 +72,7 @@
 		?>
 
 	</div><!-- .section-inner -->
-
+		<!-- thay doi content -->
 	<?php
 
 	if ( is_single() ) {
