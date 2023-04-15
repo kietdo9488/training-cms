@@ -53,7 +53,7 @@
 		<?php
 		wp_body_open();
 		?>
-
+		<!-- thay doi header -->
 		<header id="site-header" class="header-footer-group" role="banner">
 
 			<div class="header-inner section-inner">
